@@ -1,0 +1,124 @@
+﻿@model WebApplication.Models.MenuCategoryViewModel
+
+
+@{
+    ViewBag.Title = "Add Menu Category";
+    Layout = "~/Views/Shared/_LHome.cshtml";
+}
+
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">@ViewBag.Title</h3>
+                    </div>
+                    @using (Html.BeginForm(null, null, FormMethod.Post,new { enctype = "multipart/form-data", id = "quickForm"  }))
+                    {
+                        @Html.AntiForgeryToken()
+                <div class="card-body">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Name)
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.DisplayName)
+                        @Html.EditorFor(model => model.DisplayName, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Details)
+                        @Html.EditorFor(model => model.Details, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Image)
+                        <div class="input-group">
+                            <div class="custom-file">
+                                <input type="file" class="custom-file-input" name="File" id="File">
+                                <label class="custom-file-label" for="File">Choose file</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Status)
+                        @Html.EnumDropDownListFor(model => model.Status, "--Select One--", new { @class = "form-control" })
+
+                    </div>
+
+                </div>
+                        <div class="card-footer">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                    }
+                </div>
+                <!-- /.card -->
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</div>
+
+
+@section Scripts {
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+             $.validator.addMethod('selectNone', function (value, element) {
+                return this.optional(element) || value != 0;
+            }, "Status is required.");
+            $('#quickForm').validate({
+                rules: {
+                    Name: {
+                        required: true,
+                    },
+                    DisplayName: {
+                        required: true,
+                    },
+                    Details: {
+                        required: true,
+                    },
+                    Status: {
+                        selectNone: true,
+                    },
+                    File: {
+                        required: true,
+                        accept:"jpg,png,jpeg,gif"
+                    }
+                },
+                messages: {
+                    Name: {
+                        required: "Please provide Name"
+                    },
+                    DisplayName: {
+                        required: "Please provide DisplayName"
+                    },
+                    Details: {
+                        required: "Please provide Details"
+                    },
+                    Status: {
+                        required: "Please provide Status"
+                    },
+                    File: {
+                        required: "Select Image",
+                        accept: "Only image type jpg/png/jpeg/gif is allowed"
+                    }
+                },
+                errorElement: 'span',
+                errorPlacement: function (error, element) {
+                    error.addClass('invalid-feedback');
+                    element.closest('.form-group').append(error);
+                },
+                highlight: function (element, errorClass, validClass) {
+                    $(element).addClass('is-invalid');
+                },
+                unhighlight: function (element, errorClass, validClass) {
+                    $(element).removeClass('is-invalid');
+                }
+            });
+        });
+    </script>
+}

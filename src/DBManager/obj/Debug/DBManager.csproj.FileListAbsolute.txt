@@ -1,0 +1,210 @@
+D:\BACH\FloraBank.WinService v 1.0.1\SQLDBManager\bin\Debug\DBManager.dll
+D:\BACH\FloraBank.WinService v 1.0.1\SQLDBManager\bin\Debug\DBManager.pdb
+D:\BACH\FloraBank.WinService v 1.0.1\SQLDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\BACH\FloraBank.WinService v 1.0.1\SQLDBManager\obj\Debug\DBManager.dll
+D:\BACH\FloraBank.WinService v 1.0.1\SQLDBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\bin\Debug\DBManager.dll
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\bin\Debug\DBManager.pdb
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\obj\Debug\DBManager.dll
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\bin\Debug\FloraBank.Core.dll
+D:\Web\FloraBank.WinService v 1.0.1\SQLDBManager\bin\Debug\FloraBank.Core.pdb
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\bin\Debug\DBManager.dll
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\bin\Debug\DBManager.pdb
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\bin\Debug\FloraBank.Core.dll
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\bin\Debug\FloraBank.Core.pdb
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\obj\Debug\DBManager.dll
+D:\Web\FloraBankReport_20180213\FloraBankReport\FloraBankReportDBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraBankReport\FloraBankReportDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\Web\FloraBankReport\FloraBankReportDBManager\obj\Debug\DBManager.dll
+D:\Web\FloraBankReport\FloraBankReportDBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraBankReport\FloraBankReportDBManager\bin\Debug\DBManager.dll
+D:\Web\FloraBankReport\FloraBankReportDBManager\bin\Debug\DBManager.pdb
+D:\Web\FloraBankReport\FloraBankReportDBManager\bin\Debug\FloraBank.Core.dll
+D:\Web\FloraBankReport\FloraBankReportDBManager\bin\Debug\FloraBank.Core.pdb
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\bin\Debug\DBManager.dll
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\bin\Debug\DBManager.pdb
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\bin\Debug\FloraBank.Core.dll
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\bin\Debug\FloraBank.Core.pdb
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\obj\Debug\DBManager.dll
+D:\Web\FloraBankReport__________________________\FloraBankReportDBManager\obj\Debug\DBManager.pdb
+D:\FloraBankReport_PDF\FloraBankReportDBManager\bin\Debug\DBManager.dll
+D:\FloraBankReport_PDF\FloraBankReportDBManager\bin\Debug\DBManager.pdb
+D:\FloraBankReport_PDF\FloraBankReportDBManager\bin\Debug\FloraBank.Core.dll
+D:\FloraBankReport_PDF\FloraBankReportDBManager\bin\Debug\FloraBank.Core.pdb
+D:\FloraBankReport_PDF\FloraBankReportDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\FloraBankReport_PDF\FloraBankReportDBManager\obj\Debug\DBManager.dll
+D:\FloraBankReport_PDF\FloraBankReportDBManager\obj\Debug\DBManager.pdb
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\DBManager.dll
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\DBManager.pdb
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\FloraBank.Core.dll
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\FloraBank.Core.pdb
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\obj\Debug\DBManager.dll
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\obj\Debug\DBManager.pdb
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\DBManager.dll
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\DBManager.pdb
+D:\FloraBankReportApplication\FloraBankReportDBManager\obj\Debug\DBManager.dll
+D:\FloraBankReportApplication\FloraBankReportDBManager\obj\Debug\DBManager.pdb
+D:\FloraBankReportApplication\FloraBankReportDBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\FloraBank.Core.dll
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Debug\FloraBank.Core.pdb
+D:\RND\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\RND\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.dll
+D:\RND\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.pdb
+D:\RND\FloraDigitalBankingApp\DBManager\bin\Debug\DBManager.dll
+D:\RND\FloraDigitalBankingApp\DBManager\bin\Debug\DBManager.pdb
+D:\RND\FloraDigitalBankingApp\DBManager\bin\Debug\FloraBank.Core.dll
+D:\RND\FloraDigitalBankingApp\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\RND\FloraDigitalBankingApp\DBManager\bin\Debug\GlobalEntities.dll
+D:\RND\FloraDigitalBankingApp\DBManager\bin\Debug\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Debug\DBManager.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Debug\DBManager.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Debug\GlobalEntities.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Debug\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\bin\Debug\DBManager.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\bin\Debug\DBManager.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\bin\Debug\FloraBank.Core.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\bin\Debug\GlobalEntities.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\bin\Debug\GlobalEntities.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\DBManager\obj\Debug\DBManager.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\DBManager.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\DBManager.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\FloraBank.Core.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\GlobalEntities.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\GlobalEntities.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.pdb
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\DBManager.dll
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\DBManager.pdb
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\GlobalEntities.dll
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\bin\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.dll
+E:\MobileAppInterface\AppApiInterfaceSln\DBManager\obj\Debug\DBManager.pdb
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\DBManager.dll
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\DBManager.pdb
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\GlobalEntities.dll
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.dll
+E:\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.pdb
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.dll
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.dll
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\DBManager.dll
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\DBManager.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\FloraBank.Core.dll
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\GlobalEntities.dll
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\GlobalEntities.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\DBManager.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\DBManager.pdb
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.pdb
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\obj\Debug\DBManager.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\obj\Debug\DBManager.pdb
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\FloraBankReportApplication__\DBManager\bin\Debug\DBManager.dll
+D:\FloraBankReportApplication__\DBManager\bin\Debug\DBManager.pdb
+D:\FloraBankReportApplication__\DBManager\bin\Debug\FloraBank.Core.dll
+D:\FloraBankReportApplication__\DBManager\bin\Debug\GlobalEntities.dll
+D:\FloraBankReportApplication__\DBManager\bin\Debug\GlobalEntities.pdb
+D:\FloraBankReportApplication__\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\FloraBankReportApplication__\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\FloraBankReportApplication__\DBManager\obj\Debug\DBManager.dll
+D:\FloraBankReportApplication__\DBManager\obj\Debug\DBManager.pdb
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\DBManager.dll
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\DBManager.pdb
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.dll
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.dll
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.pdb
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\obj\Debug\DBManager.dll
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\obj\Debug\DBManager.pdb
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\Report Development\Shaikat\FloraBankReportApplication\DBManager\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\DBManager\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\DBManager.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\DBManager.pdb
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.pdb
+E:\FSL\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+E:\FSL\FloraBankReportApplication\DBManager\obj\Debug\DBManager.dll
+E:\FSL\FloraBankReportApplication\DBManager\obj\Debug\DBManager.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Debug\DBManager.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Debug\DBManager.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Debug\DBManager.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Debug\DBManager.pdb
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\FloraBankReportApplication\DBManager\bin\Debug\DBManager.dll
+D:\FloraBankReportApplication\DBManager\bin\Debug\DBManager.pdb
+D:\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.dll
+D:\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.dll
+D:\FloraBankReportApplication\DBManager\bin\Debug\GlobalEntities.pdb
+D:\FloraBankReportApplication\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+D:\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+D:\FloraBankReportApplication\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+D:\FloraBankReportApplication\DBManager\obj\Debug\DBManager.dll
+D:\FloraBankReportApplication\DBManager\obj\Debug\DBManager.pdb
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\DBManager.dll
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\DBManager.pdb
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\FloraBank.Core.dll
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\GlobalEntities.dll
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\GlobalEntities.pdb
+D:\Web\FloraBankReportApplication_MVC\DBManager\bin\Debug\FloraBank.Core.pdb
+D:\Web\FloraBankReportApplication_MVC\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+D:\Web\FloraBankReportApplication_MVC\DBManager\obj\Debug\DBManager.dll
+D:\Web\FloraBankReportApplication_MVC\DBManager\obj\Debug\DBManager.pdb
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Debug\DBManager.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Debug\DBManager.pdb
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Debug\GlobalEntities.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Debug\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Debug\DBManager.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Debug\DBManager.csproj.CopyComplete
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Debug\DBManager.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Debug\DBManager.pdb

@@ -1,0 +1,77 @@
+D:\RND\FloraDigitalBankingApp\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\RND\FloraDigitalBankingApp\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\RND\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.csprojResolveAssemblyReference.cache
+D:\RND\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\RND\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\bin\Debug\GlobalEntities.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\bin\Debug\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\4.FloraDigitalBankingApp\GlobalEntities\obj\Debug\GlobalEntities.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\2.FSL_Development\1.FSL_App_Projects\5.MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppApiInterfaceSln\GlobalEntities\bin\Debug\GlobalEntities.dll
+E:\MobileAppInterface\AppApiInterfaceSln\GlobalEntities\bin\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+E:\MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.dll
+E:\MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppApiInterfaceSln\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+E:\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\bin\Debug\GlobalEntities.dll
+E:\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\bin\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+E:\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.dll
+E:\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.pdb
+E:\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\bin\Debug\GlobalEntities.dll
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\bin\Debug\GlobalEntities.pdb
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.csprojResolveAssemblyReference.cache
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.dll
+E:\dot net\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\Web\FloraMobileApps\MobileAppInterface\AppBusinessServiceSln\GlobalEntities\obj\Debug\GlobalEntities.pdb
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.pdb
+D:\Report Development\FBReport Any DB\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+E:\FSL\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.dll
+E:\FSL\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.pdb
+E:\FSL\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.dll
+E:\FSL\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.pdb
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.pdb
+E:\FSL\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.csprojResolveAssemblyReference.cache
+D:\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\FloraBankReportApplication\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\FloraBankReportApplication\GlobalEntities\obj\Debug\GlobalEntities.pdb
+D:\Web\FloraBankReportApplication_MVC\GlobalEntities\bin\Debug\GlobalEntities.dll
+D:\Web\FloraBankReportApplication_MVC\GlobalEntities\bin\Debug\GlobalEntities.pdb
+D:\Web\FloraBankReportApplication_MVC\GlobalEntities\obj\Debug\GlobalEntities.dll
+D:\Web\FloraBankReportApplication_MVC\GlobalEntities\obj\Debug\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\bin\Debug\GlobalEntities.dll
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\bin\Debug\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\obj\Debug\GlobalEntities.dll
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\obj\Debug\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\obj\Debug\GlobalEntities.csprojAssemblyReference.cache

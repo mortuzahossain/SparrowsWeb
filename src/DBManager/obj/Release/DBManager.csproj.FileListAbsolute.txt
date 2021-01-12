@@ -1,0 +1,54 @@
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\DBManager.dll
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\DBManager.pdb
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\FloraBank.Core.dll
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\FloraBank.Core.pdb
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\obj\Release\DBManager.csprojResolveAssemblyReference.cache
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\obj\Release\DBManager.dll
+D:\Report\FloraBankReportApplication\FloraBankReportDBManager\obj\Release\DBManager.pdb
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\DBManager.dll
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\DBManager.pdb
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\FloraBank.Core.dll
+D:\FloraBankReportApplication\FloraBankReportDBManager\bin\Release\FloraBank.Core.pdb
+D:\FloraBankReportApplication\FloraBankReportDBManager\obj\Release\DBManager.csprojResolveAssemblyReference.cache
+D:\FloraBankReportApplication\FloraBankReportDBManager\obj\Release\DBManager.dll
+D:\FloraBankReportApplication\FloraBankReportDBManager\obj\Release\DBManager.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Release\DBManager.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Release\DBManager.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Release\GlobalEntities.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Release\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\bin\Release\FloraBank.Core.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Release\DBManager.csprojAssemblyReference.cache
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Release\DBManager.csproj.CoreCompileInputs.cache
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Release\DBManager.csproj.CopyComplete
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Release\DBManager.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\DBManager\obj\Release\DBManager.pdb
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\DBManager.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\DBManager.pdb
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\GlobalEntities.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\Oracle.ManagedDataAccess.dll
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\GlobalEntities.pdb
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\FloraBank.Core.pdb
+E:\FSL\FloraBankReportApplication\DBManager\obj\Release\DBManager.csprojResolveAssemblyReference.cache
+E:\FSL\FloraBankReportApplication\DBManager\obj\Release\DBManager.dll
+E:\FSL\FloraBankReportApplication\DBManager\obj\Release\DBManager.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Release\DBManager.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Release\DBManager.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Release\FloraBank.Core.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Release\GlobalEntities.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Release\GlobalEntities.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\bin\Release\FloraBank.Core.pdb
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Release\DBManager.csprojAssemblyReference.cache
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Release\DBManager.csproj.CoreCompileInputs.cache
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Release\DBManager.csproj.CopyComplete
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Release\DBManager.dll
+D:\New folder (3)\FloraBankReportApplication\DBManager\obj\Release\DBManager.pdb
+E:\FSL\FloraBankReportApplication\DBManager\bin\Release\FloraBank.Core.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Release\DBManager.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Release\DBManager.pdb
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Release\GlobalEntities.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Release\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\bin\Release\FloraBank.Core.pdb
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Release\DBManager.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Release\DBManager.csproj.CopyComplete
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Release\DBManager.dll
+C:\Users\Dell\source\repos\Sparrows\src\DBManager\obj\Release\DBManager.pdb

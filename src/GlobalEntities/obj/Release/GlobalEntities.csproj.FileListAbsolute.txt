@@ -1,0 +1,22 @@
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\bin\Release\GlobalEntities.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\bin\Release\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Release\GlobalEntities.csproj.CoreCompileInputs.cache
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Release\GlobalEntities.dll
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Release\GlobalEntities.pdb
+E:\Darun_Pay\Interface\FloraDigitalBankingApp\GlobalEntities\obj\Release\GlobalEntities.csprojAssemblyReference.cache
+E:\FSL\FloraBankReportApplication\GlobalEntities\bin\Release\GlobalEntities.dll
+E:\FSL\FloraBankReportApplication\GlobalEntities\bin\Release\GlobalEntities.pdb
+E:\FSL\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.csprojResolveAssemblyReference.cache
+E:\FSL\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.dll
+E:\FSL\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.pdb
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\bin\Release\GlobalEntities.dll
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\bin\Release\GlobalEntities.pdb
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.csprojAssemblyReference.cache
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.csproj.CoreCompileInputs.cache
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.dll
+D:\New folder (3)\FloraBankReportApplication\GlobalEntities\obj\Release\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\bin\Release\GlobalEntities.dll
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\bin\Release\GlobalEntities.pdb
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\obj\Release\GlobalEntities.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\obj\Release\GlobalEntities.dll
+C:\Users\Dell\source\repos\Sparrows\src\GlobalEntities\obj\Release\GlobalEntities.pdb

@@ -1,0 +1,139 @@
+﻿@model IEnumerable<WebApplication.Models.MenuCategoryViewModel>
+
+@{
+    ViewBag.Title = "Menu Category";
+    Layout = "~/Views/Shared/_LHome.cshtml";
+}
+
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <!-- jquery validation -->
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">@ViewBag.Title</h3>
+                    </div>
+                    <div class="card-body">
+                        <div id="example1_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <table id="example1" class="table table-bordered table-striped dataTable dtr-inline" role="grid" aria-describedby="example1_info">
+                                        <thead>
+                                            <tr>
+                                                <th>Name</th>
+                                                <th>Display Name</th>
+                                                <th>Details</th>
+                                                <th>Status</th>
+                                                <th>Action</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @if (Model != null)
+                                            {
+
+                                                foreach (var item in Model)
+                                                {
+
+                                            <tr role="row">
+                                                <td>@item.Name</td>
+                                                <td>@item.DisplayName</td>
+                                                <td>@item.Details</td>
+                                                @if (item.StatusId == "2")
+                                                {
+                                                    <td>Actieve</td>
+                                                }
+                                                else
+                                                {
+                                                    <td>Inactieve</td>
+                                                }
+                                                <td class="text-center">
+                                                    <button type="button" class="btn btn-default edit-emergency" data-toggle="modal" data-target="#modal-lg" data-id="@item.Id"><i class="fas fa-edit"></i></button>
+                                                    <button type="button" class="btn btn-default delete-emergency" data-toggle="modal" data-target="#modal-danger" data-id="@item.Id"><i class="fas fa-trash-alt"></i></button>
+                                                </td>
+                                            </tr>
+
+                                                }
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+
+<div class="modal fade" id="modal-lg">
+    <div class="modal-dialog modal-lg">
+            
+    </div>
+</div>
+
+
+
+<div class="modal fade" id="modal-danger">
+    <div class="modal-dialog">
+
+    </div>
+</div>
+
+
+
+@section Styles {
+    <link rel="stylesheet" href="~/Assets/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/Assets/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+}
+@section Scripts {
+
+    <script src="~/Assets/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/Assets/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Assets/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/Assets/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+             $('.edit-emergency').click(function () {
+                var url = "/MenuCategory/Edit"; // the url to the controller
+                var id = $(this).attr('data-id'); // the id that's given to each button in the list
+                $.get(url + '/' + id, function (data) {
+                    $('#modal-lg').html(data);
+                    $('#modal-lg').modal('show');
+                });
+            });
+
+             $('.delete-emergency').click(function () {
+                var url = "/MenuCategory/Delete"; // the url to the controller
+                var id = $(this).attr('data-id'); // the id that's given to each button in the list
+                $.get(url + '/' + id, function (data) {
+                    $('#modal-danger').html(data);
+                    $('#modal-danger').modal('show');
+                });
+            });
+
+
+            $("#example1").DataTable({
+                "responsive": true,
+                "autoWidth": false,
+            });
+
+
+        });
+    </script>
+}
+
+
+

@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Entities\CommonRequest.cs" />
     <Compile Include="Entities\CommonResponse.cs" />
+    <Compile Include="Entities\MenuCategory.cs" />
     <Compile Include="Entities\ReportSettingsEntity.cs" />
     <Compile Include="Enums\GlobalEnums.cs" />
     <Compile Include="Methods\GeneralUtility.cs" />

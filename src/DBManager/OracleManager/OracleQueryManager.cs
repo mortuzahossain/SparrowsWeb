@@ -129,7 +129,6 @@ namespace DBManager.OracleManager
         private static string ConStr;
         private OracleConnection OracleCon;
         private OracleDataAdapter adapter;
-        private static Hashtable paramCache;
         private enum OracleConnectionOwnership
         {
             Internal = 0,

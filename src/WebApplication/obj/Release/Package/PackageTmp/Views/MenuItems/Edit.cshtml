@@ -1,0 +1,120 @@
+﻿@model WebApplication.Models.MenuItemViewModel
+
+@{
+    ViewBag.Title = "Edit Menu Items";
+    Layout = "~/Views/Shared/_LHome.cshtml";
+}
+
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">@ViewBag.Title</h3>
+                    </div>
+                    @using (Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data", id = "quickForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="card-body">
+                            <div class="form-horizontal">
+                                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                                @Html.HiddenFor(model => model.Image)
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.DisplayName, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                    @Html.EditorFor(model => model.DisplayName, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.DisplayName, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Details, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                    @Html.EditorFor(model => model.Details, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Details, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.CategoryList, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    @Html.DropDownList("CategoryId", new SelectList(Model.CategoryList, "Id", "Name"), new { @class = "form-control" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.IsAvailableVariant, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    @Html.EnumDropDownListFor(model => model.IsAvailableVariant, "--Select One--", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.IsAvailableVariant, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.IsAvailableAdons, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    @Html.EnumDropDownListFor(model => model.IsAvailableAdons, "--Select One--", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.IsAvailableAdons, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                    @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.DiscountPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                    @Html.EditorFor(model => model.DiscountPrice, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.DiscountPrice, "", new { @class = "text-danger" })
+
+                                </div>
+
+                                <img src="@Href("~/ImageStorage/MenuItem/")@Model.Image" style="width: 240px; height: 240px;" class="img-responsive" />
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Image)
+                                    <div class="input-group">
+                                        <div class="custom-file">
+                                            <input type="file" class="custom-file-input" name="File" id="File">
+                                            <label class="custom-file-label" for="File">Choose file</label>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Status)
+                                    @Html.EnumDropDownListFor(model => model.Status, "--Select One--", new { @class = "form-control" })
+
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.StockPosition, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    @Html.EnumDropDownListFor(model => model.StockPosition, "--Select One--", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.StockPosition, "", new { @class = "text-danger" })
+                                </div>
+
+                                <div class="card-footer">
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- /.card -->
+                    }
+                </div>
+            </div><!-- /.container-fluid -->
+        </div>

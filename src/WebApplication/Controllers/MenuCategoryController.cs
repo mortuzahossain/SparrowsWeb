@@ -41,6 +41,8 @@ namespace WebApplication.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(MenuCategoryViewModel collection)
         {
+            collection.IID = "1";
+
             try
             {
                 if (ModelState.IsValid)
@@ -60,8 +62,6 @@ namespace WebApplication.Controllers
                         collection.File.SaveAs(path);
                         collection.Image = name;
 
-
-                        collection.IID = "1";
 
                         CommonResponse commonResponse = new MenuCategoryRepository().AddMenuCategory(collection);
                         if (commonResponse.ResponseCode == (int)ResponseCode.Success)

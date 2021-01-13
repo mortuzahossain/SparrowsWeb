@@ -90,7 +90,7 @@ namespace DBManager.Common
                 //    }
                 //}
                 // Development
-                dbCon.ConnectionString = "Data Source = 172.16.22.24; Initial Catalog = sparrows; User ID = sa; Password = 123";
+               dbCon.ConnectionString = "Data Source = 172.16.22.24; Initial Catalog = sparrows; User ID = sa; Password = 123";
                 //Live
                 //dbCon.ConnectionString = "Data Source = 172.16.22.24; Initial Catalog = SparrowsLive; User ID = sa; Password = 123";
                 return true;
@@ -100,7 +100,6 @@ namespace DBManager.Common
             {
                 throw errorException;
             }
-            return false;
         }
 
         public void GetConnection(ref DBConnection dbConnection)

@@ -677,7 +677,6 @@ namespace DBManager.SQLManager
 
         public string ExecuteInsertRequest(string AppId, string DeviceIP, string MTI, string MText, string RefNo, ref string errMsg)
         {
-            Int32 lastId = 0;
             try
             {
                 using (SqlConnection conn = new SqlConnection(ConStr))

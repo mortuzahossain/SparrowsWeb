@@ -101,7 +101,7 @@ namespace DBManager
                     return objSqlQueryManager.ExecuteDataset(SqlStr, ref reply, parameterValues);
                 }
             }
-            catch (Exception errorExcep)
+            catch
             {
                 return null;
             }
@@ -123,7 +123,7 @@ namespace DBManager
                     return objSqlQueryManager.ExecuteSingleValue(SqlStr, ref reply, parameterValues);
                 }
             }
-            catch (Exception errorExcep)
+            catch
             {
                 return null;
             }

@@ -107,7 +107,7 @@
         $(document).ready(function () {
 
              $('.edit-emergency').click(function () {
-                var url = "/MenuCategory/Edit"; // the url to the controller
+                var url = "/MenuItems/Edit"; // the url to the controller
                 var id = $(this).attr('data-id'); // the id that's given to each button in the list
                 $.get(url + '/' + id, function (data) {
                     $('#modal-lg').html(data);
@@ -116,7 +116,7 @@
             });
 
              $('.delete-emergency').click(function () {
-                var url = "/MenuCategory/Delete"; // the url to the controller
+                var url = "/MenuItems/Delete"; // the url to the controller
                 var id = $(this).attr('data-id'); // the id that's given to each button in the list
                 $.get(url + '/' + id, function (data) {
                     $('#modal-danger').html(data);

@@ -372,7 +372,7 @@ namespace DBManager.OracleManager
                 parameterArray1 = this.GetSpParameterSetInternal(OracleCon, spName, includeReturnValueParameter, ref reply);
 
             }
-            catch (Exception err)
+            catch 
             {
                 parameterArray1 = null;
             }

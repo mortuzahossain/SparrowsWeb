@@ -46,8 +46,14 @@ namespace GlobalEntities.Enums
 
         public enum StatusCode
         {
-            Inactieve = 1,
-            Actieve = 2
+            InActive = 1,
+            Active = 2
+        }
+
+        public enum AvailabilityCode
+        {
+            Inavailable = 1,
+            Available = 2
         }
 
 
@@ -60,6 +66,7 @@ namespace GlobalEntities.Enums
             public const string GetMenuCategorySuccess = "Get Menu category item successfully.";
             public const string GetMenuCategoryFailed = "Get Menu category item failed.";
             public const string MenuCategoryAddSuccess = "Menu category item added successfully.";
+            public const string MenuItemAddSuccess = "Menu item added successfully.";
             public const string MenuAddSuccess = "Menu item added successfully.";
             public const string MenuAddFailed = "Failed to add menu item.";
         }

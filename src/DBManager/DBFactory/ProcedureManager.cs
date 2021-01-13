@@ -144,7 +144,7 @@ namespace DBManager
                     return reader; 
                 }
             }
-            catch (Exception errorExcep)
+            catch 
             {
                 return null;
             }
@@ -190,7 +190,7 @@ namespace DBManager
                     return objSqlProcedureManager.ExecuteDataTable(SPName, ref reply, FieldValue).Rows[0][0].ToString();
                 }
             }
-            catch (Exception errorExcep)
+            catch
             {
                 return null;
             }
@@ -211,7 +211,6 @@ namespace DBManager
         }
         public string InsertRequest(string AppId, string DeviceIP, string MTI, string MText, string RefNo, ref string errMsg)
         {
-            Int32 lastId = 0;
             try
             {
                 objSqlProcedureManager.ExecuteInsertRequest(AppId, DeviceIP, MTI, MText, RefNo, ref errMsg);

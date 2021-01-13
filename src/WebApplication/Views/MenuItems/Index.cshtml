@@ -1,7 +1,7 @@
-﻿@model IEnumerable<WebApplication.Models.MenuCategoryViewModel>
+﻿@model IEnumerable<WebApplication.Models.MenuItemViewModel>
 
 @{
-    ViewBag.Title = "Menu Category";
+    ViewBag.Title = "Menu Items";
     Layout = "~/Views/Shared/_LHome.cshtml";
 }
 
@@ -36,23 +36,23 @@
                                                 foreach (var item in Model)
                                                 {
 
-                                            <tr role="row">
-                                                <td>@item.Name</td>
-                                                <td>@item.DisplayName</td>
-                                                <td>@item.Details</td>
-                                                @if (item.StatusId == "2")
-                                                {
-                                                    <td>Actieve</td>
-                                                }
-                                                else
-                                                {
-                                                    <td>Inactieve</td>
-                                                }
-                                                <td class="text-center">
-                                                    <button type="button" class="btn btn-default edit-emergency" data-toggle="modal" data-target="#modal-lg" data-id="@item.Id"><i class="fas fa-edit"></i></button>
-                                                    <button type="button" class="btn btn-default delete-emergency" data-toggle="modal" data-target="#modal-danger" data-id="@item.Id"><i class="fas fa-trash-alt"></i></button>
-                                                </td>
-                                            </tr>
+                                                    <tr role="row">
+                                                        <td>@item.Name</td>
+                                                        <td>@item.DisplayName</td>
+                                                        <td width="30%">@item.Details</td>
+                                                        @if (item.StatusId == "2")
+                                                        {
+                                                            <td>Actieve</td>
+                                                        }
+                                                        else
+                                                        {
+                                                            <td>Inactieve</td>
+                                                        }
+                                                    <td class="text-center">
+                                                        <a class="btn btn-default edit-emergency" href="/MenuItems/Edit/@item.Id"><i class="fas fa-edit"></i></a>
+                                                        <button type="button" class="btn btn-default delete-emergency" data-toggle="modal" data-target="#modal-danger" data-id="@item.Id"><i class="fas fa-trash-alt"></i></button>
+                                                    </td>
+                                                    </tr>
 
                                                 }
                                             }
@@ -72,16 +72,6 @@
 
 
 </div>
-
-
-
-<div class="modal fade" id="modal-lg">
-    <div class="modal-dialog modal-lg">
-            
-    </div>
-</div>
-
-
 
 <div class="modal fade" id="modal-danger">
     <div class="modal-dialog">
@@ -106,17 +96,8 @@
     <script type="text/javascript">
         $(document).ready(function () {
 
-             $('.edit-emergency').click(function () {
-                var url = "/MenuItems/Edit"; // the url to the controller
-                var id = $(this).attr('data-id'); // the id that's given to each button in the list
-                $.get(url + '/' + id, function (data) {
-                    $('#modal-lg').html(data);
-                    $('#modal-lg').modal('show');
-                });
-            });
-
              $('.delete-emergency').click(function () {
-                var url = "/MenuItems/Delete"; // the url to the controller
+                var url = "/MenuCategory/Delete"; // the url to the controller
                 var id = $(this).attr('data-id'); // the id that's given to each button in the list
                 $.get(url + '/' + id, function (data) {
                     $('#modal-danger').html(data);
